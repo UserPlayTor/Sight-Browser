@@ -1,2 +1,2 @@
-Sight Browser is a lightweight browser with unique features 
+Sight Browser is a lightweight browser with unique features.
 Version : beta 0.1
